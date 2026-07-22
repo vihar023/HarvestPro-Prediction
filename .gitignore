@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac files
+.DS_Store
+
+# Model files (optional - large files)
+# crop_model.pkl
+
+# Power BI temporary files
+*.tmp
